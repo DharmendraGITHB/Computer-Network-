@@ -1,6 +1,5 @@
 # Computer Networking
 
-[![GITHUB](https://github.com/DharmendraGITHB)](https://github.com/DharmendraGITHB)
 ### _Content_
 - Networks Basics
 - Networks Types
