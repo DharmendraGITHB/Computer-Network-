@@ -1,7 +1,7 @@
 # Computer Networking
 
 ### _Content_
-- Networks Basics
+- [Networks Basics](https://github.com/DharmendraGITHB/Computer-Network-/blob/main/Networks%20basics/network.md)
 - Networks Types
 - Networks Topologies
 - Network Devices
