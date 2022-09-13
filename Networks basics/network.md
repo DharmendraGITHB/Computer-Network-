@@ -3,7 +3,8 @@ A Network is connection of two or more computers that are linked to share resouc
 A Computer which is not part of a network is called stand-alone computer.
 
 
-
-
 ### Internet 
 Interconnected networks or collection of networks is internet.
+
+
+
